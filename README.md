@@ -10,7 +10,7 @@
 
 ## Быстрые ссылки
 - Закреплённые проекты см. ниже (Pinned).
-- Резюме: **[PDF](https://nkuznetsov-dev.github.io/assets/Nikita_Kuznetsov_CV.pdf)**
+- Резюме: **[PDF](https://nkuznetsov-dev.github.io/nkuznetsov-dev/assets/Nikita_Kuznetsov_CV.pdf)**
 - Контакты: **[email](halfbirty@gmail.com)** · **[Telegram](https://t.me/half_dirty)**
 
 ---
